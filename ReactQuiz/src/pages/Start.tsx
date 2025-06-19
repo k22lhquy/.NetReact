@@ -88,7 +88,12 @@ const Start = () => {
   };
 
   if (questions.length === 0)
-    return <p className="text-center text-white">Loading...</p>;
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-black text-white">
+      <p className="text-xl">Loading...</p>
+    </div>
+  );
+
 
   if (currentIndex >= questions.length && !showReview) {
     return (

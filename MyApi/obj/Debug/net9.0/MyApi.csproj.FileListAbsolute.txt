@@ -44,3 +44,4 @@ D:\NET\MyApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 D:\NET\MyApi\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\NET\MyApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 D:\NET\MyApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\NET\MyApi\obj\Debug\net9.0\MyApi.sourcelink.json
